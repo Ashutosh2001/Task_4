@@ -1,7 +1,7 @@
 provider "aws" {
   region = "ap-south-1"
-  access_key = "AKIAZIC7FGF2YLFODI7N"
-  secret_key = "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"
+  access_key = "****************"
+  secret_key = "************************"
 }
 
 resource "tls_private_key" "key" {
